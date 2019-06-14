@@ -5,7 +5,7 @@ import Home from './Miniperpus/home'
 export default class App extends React.Component {
     render() {
     return (
-     <Home/>
+     <Menu/>
     );
   }
 }
